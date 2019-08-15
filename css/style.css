@@ -60,3 +60,18 @@ header {
 	padding-bottom: 50px;
 }
 
+p.serif {
+  font-family: "Petrona", serif;
+}
+
+p.sansserif {
+  font-family: "Brandon Grotesque", sans-serif;
+}
+
+h1.serif {
+  font-family: "Petrona", serif;
+}
+
+h1.sansserif {
+  font-family: "Brandon Grotesque", sans-serif;
+}
