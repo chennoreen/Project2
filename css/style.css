@@ -6,7 +6,7 @@ ul{
 	padding: 0;
 	width : 2000px;
 	overflow: hidden;
-	background-color: #f7aa00;
+	background-color: #e2bebe;
 	
 }
 
@@ -27,12 +27,12 @@ li a{
 }
 
 li a.active{
-	background-color: #fd5f00;
+	background-color: #b96b9f;
 	color: white;
 }
 
 li a:hover:not(.active){
-	background-color: #ffdd00;
+	background-color: #f5f687;
 	color: black;
 	width: 120px;
 }
