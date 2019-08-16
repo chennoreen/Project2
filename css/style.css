@@ -78,3 +78,11 @@ h1.sansserif {
   font-family: "Brandon Grotesque", sans-serif;
 }
 
+h3.serif {
+  font-family: "Petrona", serif;
+}
+
+p {
+  font-size: 20px;
+}
+
